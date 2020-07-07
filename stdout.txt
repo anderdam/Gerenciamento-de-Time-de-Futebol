@@ -1,0 +1,10 @@
+:compileJava
+:processResources NO-SOURCE
+:classes
+:compileTestJava UP-TO-DATE
+:processTestResources NO-SOURCE
+:testClasses UP-TO-DATE
+:test
+
+BUILD SUCCESSFUL in 0s
+3 actionable tasks: 2 executed, 1 up-to-date
